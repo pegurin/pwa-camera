@@ -13,7 +13,7 @@ class Notifier extends Component {
             your Cloudinary Media Library once your internet connection is back up.
         ` :
             `
-            Take a picture and it will be uploaded to your Cloudinary Media Library.
+            Tire uma foto!
         `;
         return (
             <div className={notifyclass}>
